@@ -2,6 +2,8 @@
 
 A high-performance 3D compressible flow solver implemented in [NVIDIA Warp](https://github.com/NVIDIA/warp), based on the wave-appropriate reconstruction framework of Chamarthi et al. (2023–2026). Initially, it was a fun project (using Warp framework), but I realized it has significant potential and am developing it into a fully functional code.
 
+Paper https://doi.org/10.1016/j.jcp.2026.115244 
+
 
 
 
